@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "spectagram",
+    "slug": "spectagram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "spectagram"
+}
